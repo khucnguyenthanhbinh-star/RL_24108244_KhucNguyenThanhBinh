@@ -7,7 +7,7 @@ GitHub username: khucnguyenthanhbinh-star
 
 ## Danh sach bai thuc hanh
 - [Lab01 - Lam quen voi Gymnasium](./Lab01/)
-- Lab02 - Chua nop
+- [Lab02 - Markov Decision Process va Dynamic Programming](./Lab02/)
 - Lab03 - Chua nop
 
 ## Mo ta
